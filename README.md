@@ -15,6 +15,7 @@ Use the package manager pip to install foobar.
 ## Usage
 
 ```python
+
 import foobar
 
 foobar.pluralize('word') # returns 'words'
